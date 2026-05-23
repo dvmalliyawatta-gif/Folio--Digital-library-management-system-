@@ -2,9 +2,11 @@
 A full-stack digital library management system built with MERN. Supports online book reservations, rental tracking, overdue penalty management, and inventory control for readers, librarians, and admins.
 
 🌟 Overview
+
 DLMS digitises every aspect of a library's operations. Readers can browse the catalogue, reserve books online, and track their rentals. Librarians handle daily operations — approvals, handovers, returns, and penalties. Admins have full control over users, inventory, reports, and system settings.
 
 ✨ Features
+
     👤 Reader
     
     Browse & search books by title, author, ISBN, category, or genre
@@ -54,4 +56,4 @@ Categories — book categories and genres
 Rentals — full lifecycle from reservation to return, penalty fields included
 AuditLog — immutable record of every state-changing action
 Notifications — in-app notification records per user
-SystemSettings — configurable business rule values
+SystemSettings — configurable business rule values.
